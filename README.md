@@ -8,3 +8,4 @@ Sentiment analysis of restaurant reviews from Kaggle - https://www.kaggle.com/da
 * Create a interative piechart to show percentage of sentiment by restaurant
 
 
+<img width="450px" src="./img/sentiment_restaurant.gif" alt="piechart" />
