@@ -7,4 +7,4 @@ Sentiment analysis of restaurant reviews from Kaggle - https://www.kaggle.com/da
 * Add sentiment category and score on dataframe
 * Create a interative piechart to show percentage of sentiment by restaurant
 
-![demo](/img/sentiment_restaurant.gif)
+![demo](./img/sentiment_restaurant.gif)
